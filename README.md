@@ -1,3 +1,3 @@
 # React_handsOn
 
-This is hands on on React native 
+This is hands-on on React native 
