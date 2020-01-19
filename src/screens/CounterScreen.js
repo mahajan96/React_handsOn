@@ -2,9 +2,9 @@ import React , {useState} from 'react';
 import {Text, StyleSheet, View, Button} from 'react-native';
 
 const CounterScreen = () => {
-//Todo Tast
+//Todo Task
     //let counter = 0;
-            // this is array destruction and these are state variable
+    // this is array destruction and these are state variable
     const [counter , set] = useState(0);
 
     const txt = " This is normal javascript";
