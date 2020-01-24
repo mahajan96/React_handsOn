@@ -15,6 +15,8 @@ TextScreen = () =>{
             value= {name}
             onChangeText = {(newValue) => SetName(newValue)}
             />
+
+    <Text>My name is {name}</Text>
         </View>
     );
 };
